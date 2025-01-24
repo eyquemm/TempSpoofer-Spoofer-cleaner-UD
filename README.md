@@ -3,11 +3,11 @@
 ## 🚀 About This Project
 Welcome to my **Crazy Project**! I'm creating simple but powerful tools for spoofing and cleaning. The goal? To stay **undetected** in games like:
 
-- 🕹️ Fortnite
+- 🕹️Fortnite
 - 🎮 Call of Duty (COD)
 - 🔫 Valorant
 - 🛡️ Rainbow Six Siege
-- ...and more!
+- 🎲 ...and more!
 
 ## 🔑 Main Features
 
@@ -37,3 +37,22 @@ This project is for **learning purposes only**. I'm coding in **C#** and explori
 - Suggest ideas to make it better. 💡
 
 Let’s make this project crazy and fun! 😎
+
+---
+
+## 📍 Tags:
+- `#Spoofer`
+- `#Cleaner`
+- `#Undetected`
+- `#GamingTools`
+- `#Fortnite`
+- `#COD`
+- `#Valorant`
+- `#R6S`
+- `#CSharp`
+- `#Learning`
+- `#KernelDriver`
+- `#AMIDEWIN`
+- `#GameHacking`
+- `#CheatDevelopment`
+- `#GameSecurity`
