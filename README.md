@@ -3,11 +3,11 @@
 ## 🚀 About This Project
 Welcome to my **Crazy Project**! I'm creating simple but powerful tools for spoofing and cleaning. The goal? To stay **undetected** in games like:
 
-- 🕹️Fortnite
-- 🎮 Call of Duty (COD)
-- 🔫 Valorant
-- 🛡️ Rainbow Six Siege
-- 🎲 ...and more!
+- Fortnite
+- Call of Duty (COD)
+- Valorant
+- Rainbow Six Siege
+- ...and more!
 
 ## 🔑 Main Features
 
