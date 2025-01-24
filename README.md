@@ -17,29 +17,17 @@ Welcome to my **Crazy Project**! I'm creating simple but powerful tools for spoo
 
 ---
 
-## ⭐ How to Support
-I'm just getting started, so here's what I'll do as we reach milestones:
-
-- **5 Stars**: Release the **.exe file** of the cleaner. 💾
-- **50 Stars**: Share the **project source code** for the cleaner and spoofer! 🧑‍💻
-- **100 Stars**: Release **ALL source codes**, including the temp spoofer driver source code ! 🤯
-
-
----
-
 ## 📜 Disclaimer
 This project is for **learning purposes only**. I'm coding in **C#** and exploring how everything works. Use responsibly. 🚨
 
 ---
 
-If the goal is not reached: ❌
-
 ## 📂 Roadmap
 - ✅ Start the project.
-- ❌ Cleaner.exe released at 5 stars
-- ❌ Spoofer and temp .exe released at 25 stars
-- ❌ Cleaner and spoofer source code at 50 stars.
-- ❌ Full source code at 100 stars.
+- ❌ Cleaner.exe released at **5⭐**.
+- ❌ Spoofer and temp .exe released at **25⭐**.
+- ❌ Cleaner and spoofer source code at **50⭐**.
+- ❌ Full source code at **100⭐**.
 
 ---
 
