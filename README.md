@@ -14,8 +14,7 @@ Welcome to my **Crazy Project**! I'm creating simple but powerful tools for spoo
 1. **Kernel Driver** for temporary spoofing.
 2. **AMIDEWIN** method for permanent spoofing.
 3. My **Crazy Cleaner** is 100% **undetected** for many games.
-
----
+--> ![Clean example](https://github.com/eyquemm/TempSpoofer-Spoofer-cleaner-UD/blob/main/screens/Cleaner%20example.png)
 
 ## 📜 Disclaimer
 This project is for **learning purposes only**. I'm coding in **C#** and exploring how everything works. Use responsibly. 🚨
