@@ -23,7 +23,7 @@ This project is for **learning purposes only**. I'm coding in **C#** and explori
 
 ## 📂 Roadmap
 - ✅ Start the project.
-- ✅ Cleaner.exe released at **5⭐**. THANKS FOR IT
+- ✅ Cleaner.exe released at **5⭐**. THANKS FOR IT check it in REALESED
 - ❌ Spoofer and temp .exe released at **25⭐**.
 - ❌ Cleaner and spoofer source code at **50⭐**.
 - ❌ Full source code at **100⭐**.
